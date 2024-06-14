@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+    margin: 5%;
+}
+
+img {
+    width: 30%;
+}
+
+a.red {
+    color: red;
+    margin: 1%;
+}
+
+a.blue {
+    color: blue;
+    margin: 1%;
+}
+
+a.white {
+    color: white;
+    margin: 1%;
+}
